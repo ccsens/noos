@@ -1,0 +1,6 @@
+---- L1n_i2c_write Matches (5 in 2 files) ----
+App_flow.c (app):				L1n_i2c_write(D_i2c_addr_cw63xx,D_Power_channel_LED,D_CW63XX_ON|D_CW63XX_2V5);
+App_flow.c (app):				L1n_i2c_write(D_i2c_addr_cw63xx,D_Power_channel_BUZ,D_CW63XX_ON|D_CW63XX_1V8);
+App_flow.c (app):				L1n_i2c_write(D_i2c_addr_cw63xx,D_Power_channel_MIC,D_CW63XX_ON|D_CW63XX_1V8);
+App_flow.c (app):				L1n_i2c_write(D_i2c_addr_cw63xx,D_Power_channel_VCC,D_CW63XX_ON|D_CW63XX_3V2);// for debug
+Msp_i2c.h (msp):extern void L1n_i2c_write(U8 addr,U8 reg,U8 dat);

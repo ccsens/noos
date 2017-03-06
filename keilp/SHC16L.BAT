@@ -1,0 +1,35 @@
+SET C251INC=C:\Keil_v5\C251\Inc;C:\Keil_v5\C251\Inc\Intel
+SET C251LIB=C:\Keil_v5\C251\Lib
+SET CPU_TYPE=Flip80251 Hurricane
+SET CPU_VENDOR=Dolphin
+SET UV2_TARGET=SHC16L
+SET CPU_XTAL=0x003D0900
+"C:\Keil_v5\C251\BIN\C251.EXE" @..\output\main.__i
+"C:\Keil_v5\C251\BIN\C251.EXE" @..\output\app_fsk.__i
+"C:\Keil_v5\C251\BIN\C251.EXE" @..\output\APP_VO~1.__I
+"C:\Keil_v5\C251\BIN\C251.EXE" @..\output\app_flow.__i
+"C:\Keil_v5\C251\BIN\C251.EXE" @..\output\APP_AC~1.__I
+"C:\Keil_v5\C251\BIN\A251.EXE" @..\output\START251._ia
+"C:\Keil_v5\C251\BIN\C251.EXE" @..\output\cpu.__i
+"C:\Keil_v5\C251\BIN\C251.EXE" @..\output\SHC660~1.__I
+"C:\Keil_v5\C251\BIN\C251.EXE" @..\output\bsp_led.__i
+"C:\Keil_v5\C251\BIN\C251.EXE" @..\output\msa300.__i
+"C:\Keil_v5\C251\BIN\C251.EXE" @..\output\cw63xx.__i
+"C:\Keil_v5\C251\BIN\C251.EXE" @..\output\clib.__i
+"C:\Keil_v5\C251\BIN\C251.EXE" @..\output\task.__i
+"C:\Keil_v5\C251\BIN\C251.EXE" @..\output\tick.__i
+"C:\Keil_v5\C251\BIN\C251.EXE" @..\output\time.__i
+"C:\Keil_v5\C251\BIN\C251.EXE" @..\output\uart0.__i
+"C:\Keil_v5\C251\BIN\C251.EXE" @..\output\SHC660~4.__I
+"C:\Keil_v5\C251\BIN\C251.EXE" @..\output\SH81B4~1.__I
+"C:\Keil_v5\C251\BIN\C251.EXE" @..\output\msp_buzz.__i
+"C:\Keil_v5\C251\BIN\C251.EXE" @..\output\msp_rtc.__i
+"C:\Keil_v5\C251\BIN\C251.EXE" @..\output\msp_adc.__i
+"C:\Keil_v5\C251\BIN\C251.EXE" @..\output\msp_I2C.__i
+"C:\Keil_v5\C251\BIN\C251.EXE" @..\output\SHFAB9~1.__I
+"C:\Keil_v5\C251\BIN\C251.EXE" @..\output\DEBUG_~1.__I
+"C:\Keil_v5\C251\BIN\C251.EXE" @..\output\DEBUG_~2.__I
+"C:\Keil_v5\C251\BIN\C251.EXE" @..\output\UREC2P~1.__I
+"C:\Keil_v5\C251\BIN\C251.EXE" @..\output\UPROTO~2.__I
+"C:\Keil_v5\C251\BIN\L251.EXE" @..\output\CC_SWH~2.LNP
+"C:\Keil_v5\C251\BIN\OH251.EXE" "..\output\cc_swhh_MD02" H386 RANGE (0 - 0xFFFFFF)

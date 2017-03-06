@@ -1,0 +1,1404 @@
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Finalization after run ------ Set Breakpoint @0xFF005F---
+--- Enable Breakpoint ---
+--- Set Breakpoint @0xFF005F---
+--- Enable Breakpoint ---
+--- Set Breakpoint @0xFF005F---
+--- Memory Read Access ---
+--- Memory Read Access ---
+--- Memory Read Access ---
+--- Memory Read Access ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Memory Read Access ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Go ---
+--- Initialization before run ---
+--- Stop execution ------ Finalization after run ------ Memory Read Access ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Go Step ---
+--- Initialization before run ---
+--- Finalization after run ------ Reading Code Memory ---
+--- Go Step ---
+--- Initialization before run ---
+--- Finalization after run ------ Reading Code Memory ---
+--- Go Step ---
+--- Initialization before run ---
+--- Finalization after run ------ Reading Code Memory ---
+--- Go Step ---
+--- Initialization before run ---
+--- Finalization after run ------ Reading Code Memory ---
+--- Go Step ---
+--- Initialization before run ---
+--- Finalization after run ------ Reading Code Memory ---
+--- Go Step ---
+--- Initialization before run ---
+--- Finalization after run ------ Memory Read Access ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Set Breakpoint @0xFF002E---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Set Breakpoint @0xFF0044---
+--- Go ---
+--- Initialization before run ---
+--- Stop execution ------ Finalization after run ------ Memory Read Access ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Finalization after run ------ Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Go ---
+--- Initialization before run ---
+--- Finalization after run ------ Memory Read Access ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Go Step ---
+--- Initialization before run ---
+--- Finalization after run ------ Reading Code Memory ---
+--- Go Step ---
+--- Initialization before run ---
+--- Finalization after run ------ Reading Code Memory ---
+--- Go Step ---
+--- Initialization before run ---
+--- Finalization after run ------ Reading Code Memory ---
+--- Go Step ---
+--- Initialization before run ---
+--- Finalization after run ------ Reading Code Memory ---
+--- Go Step ---
+--- Initialization before run ---
+--- Finalization after run ------ Reading Code Memory ---
+--- Go Step ---
+--- Initialization before run ---
+--- Finalization after run ------ Reading Code Memory ---
+--- Go Step ---
+--- Initialization before run ---
+--- Finalization after run ------ Reading Code Memory ---
+--- Go Step ---
+--- Initialization before run ---
+--- Finalization after run ------ Reading Code Memory ---
+--- Go Step ---
+--- Initialization before run ---
+--- Finalization after run ------ Reading Code Memory ---
+--- Go Step ---
+--- Initialization before run ---
+--- Finalization after run ------ Memory Read Access ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Go Step ---
+--- Initialization before run ---
+--- Finalization after run ------ Reading Code Memory ---
+--- Go Step ---
+--- Initialization before run ---
+--- Finalization after run ------ Reading Code Memory ---
+--- Go Step ---
+--- Initialization before run ---
+--- Finalization after run ------ Reading Code Memory ---
+--- Go Step ---
+--- Initialization before run ---
+--- Finalization after run ------ Reading Code Memory ---
+--- Go Step ---
+--- Initialization before run ---
+--- Finalization after run ------ Reading Code Memory ---
+--- Go Step ---
+--- Initialization before run ---
+--- Finalization after run ------ Reading Code Memory ---
+--- Go Step ---
+--- Initialization before run ---
+--- Finalization after run ------ Reading Code Memory ---
+--- Go Step ---
+--- Initialization before run ---
+--- Finalization after run ------ Reading Code Memory ---
+--- Go Step ---
+--- Initialization before run ---
+--- Finalization after run ------ Memory Read Access ---
+--- Reading Code Memory ---
+--- Go Step ---
+--- Initialization before run ---
+--- Finalization after run ------ Reading Code Memory ---
+--- Go Step ---
+--- Initialization before run ---
+--- Finalization after run ------ Reading Code Memory ---
+--- Go Step ---
+--- Initialization before run ---
+--- Finalization after run ------ Reading Code Memory ---
+--- Go Step ---
+--- Initialization before run ---
+--- Finalization after run ------ Reading Code Memory ---
+--- Go Step ---
+--- Initialization before run ---
+--- Finalization after run ------ Reading Code Memory ---
+--- Go Step ---
+--- Initialization before run ---
+--- Finalization after run ------ Reading Code Memory ---
+--- Go Step ---
+--- Initialization before run ---
+--- Finalization after run ------ Reading Code Memory ---
+--- Go Step ---
+--- Initialization before run ---
+--- Finalization after run ------ Reading Code Memory ---
+--- Go Step ---
+--- Initialization before run ---
+--- Finalization after run ------ Memory Read Access ---
+--- Reading Code Memory ---
+--- Go Step ---
+--- Initialization before run ---
+--- Finalization after run ------ Reading Code Memory ---
+--- Go Step ---
+--- Initialization before run ---
+--- Finalization after run ------ Reading Code Memory ---
+--- Go Step ---
+--- Initialization before run ---
+--- Finalization after run ------ Reading Code Memory ---
+--- Go Step ---
+--- Initialization before run ---
+--- Finalization after run ------ Reading Code Memory ---
+--- Go Step ---
+--- Initialization before run ---
+--- Finalization after run ------ Reading Code Memory ---
+--- Go Step ---
+--- Initialization before run ---
+--- Finalization after run ------ Reading Code Memory ---
+--- Go Step ---
+--- Initialization before run ---
+--- Finalization after run ------ Reading Code Memory ---
+--- Go Step ---
+--- Initialization before run ---
+--- Finalization after run ------ Reading Code Memory ---
+--- Go Step ---
+--- Initialization before run ---
+--- Finalization after run ------ Memory Read Access ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Finalization after run ------ Set Breakpoint @0xFF00C6---
+--- Enable Breakpoint ---
+--- Set Breakpoint @0xFF00C6---
+--- Enable Breakpoint ---
+--- Set Breakpoint @0xFF00C6---
+--- Set Breakpoint @0xFF00A8---
+--- Enable Breakpoint ---
+--- Set Breakpoint @0xFF00A8---
+--- Enable Breakpoint ---
+--- Set Breakpoint @0xFF00A8---
+--- Set Breakpoint @0xFF00BE---
+--- Enable Breakpoint ---
+--- Set Breakpoint @0xFF00BE---
+--- Enable Breakpoint ---
+--- Set Breakpoint @0xFF00BE---
+--- Memory Read Access ---
+--- Memory Read Access ---
+--- Memory Read Access ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Go ---
+--- Initialization before run ---
+--- Stop execution ------ Finalization after run ------ Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Finalization after run ------ Memory Read Access ---
+--- Memory Read Access ---
+--- Memory Read Access ---
+--- Memory Read Access ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Go ---
+--- Initialization before run ---
+--- Stop execution ------ Finalization after run ------ Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Set Breakpoint @0xFF0083---
+--- Go ---
+--- Initialization before run ---
+--- Stop execution ------ Finalization after run ------ Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Writing Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Finalization after run ------ Set Breakpoint @0xFF0080---
+--- Enable Breakpoint ---
+--- Set Breakpoint @0xFF0080---
+--- Enable Breakpoint ---
+--- Set Breakpoint @0xFF0080---
+--- Set Breakpoint @0xFF0083---
+--- Enable Breakpoint ---
+--- Set Breakpoint @0xFF0083---
+--- Enable Breakpoint ---
+--- Set Breakpoint @0xFF0083---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Go ---
+--- Initialization before run ---
+--- Finalization after run ------ Memory Read Access ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Go ---
+--- Initialization before run ---
+--- Finalization after run ------ Memory Read Access ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Go Step ---
+--- Initialization before run ---
+--- Finalization after run ------ Memory Read Access ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
+--- Reading Code Memory ---
